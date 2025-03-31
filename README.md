@@ -1,7 +1,5 @@
 - 👋 Hi, I'm @computeibr
 - 👀 I'm interested in technology
-- 🌱 I'm currently learning data science
-- 💞️ I’m looking to collaborate on resolve problems human with tecnology
 - 📫 How to reach me: computei.com.br
 
 <!---
